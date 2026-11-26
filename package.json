@@ -1,0 +1,25 @@
+{
+  "name": "202602_js_dfsb_subclient_13",
+  "version": "1.0.0",
+  "description": "Ciclo:2026-02, Lenguaje: JS, Universidad: UA, Curso: Desarrollo Web FullStack BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgabrieleProfesorUA/202602_js_dfsb_subClient_13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_subClient_13/issues"
+  },
+  "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_dfsb_subClient_13#readme",
+  "dependencies": {
+    "@apollo/client": "^4.3.8",
+    "subscriptions-transport-ws": "^0.11.0"
+  }
+}
